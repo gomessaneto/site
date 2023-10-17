@@ -1,0 +1,4 @@
+lista de comprar
+    arroz;
+    pera;
+    feijao;
